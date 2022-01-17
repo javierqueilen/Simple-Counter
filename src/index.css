@@ -1,0 +1,17 @@
+.contenedor{
+  background-color: black;
+  color:hotpink;
+  margin: auto;
+  text-align: center;
+  
+}
+
+
+
+.contenedor div{
+  font-size: 40px;
+  display: inline-flex;
+  margin: 20px;
+}
+  
+
